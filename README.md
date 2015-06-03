@@ -7,3 +7,4 @@ forth step:another pull command
 fifth step:another push command,yes or no?
 sixth step:anorher pull command(do push must do add and commit first).
 eighth step:add and change a new branch, then check it after merge to master.
+ninth step:how to merge two branchs between master and the branch version
