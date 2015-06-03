@@ -6,3 +6,4 @@ third step:modify in github and then pull it to local when somebody exchange the
 forth step:another pull command
 fifth step:another push command,yes or no?
 sixth step:anorher pull command(do push must do add and commit first).
+eighth step:add and change a new branch, then check it after merge to master.
